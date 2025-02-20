@@ -1,4 +1,4 @@
-# [Business Name] - AI Solutions for Churches
+# [AIncorporated] - AI Solutions for Churches
 
 Welcome to the repository for AIncorporated! This project is focused on helping Protestant churches integrate AI technology to enhance their outreach, engagement, and overall mission of spreading the gospel.
 
