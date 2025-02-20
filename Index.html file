@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI Solutions for Churches - Helping spread the gospel with cutting-edge technology.">
+    <title>[Business Name] - Empowering Churches with AI</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 15px;
+            text-decoration: none;
+            display: inline-block;
+        }
+        nav a:hover {
+            background-color: #ddd;
+        }
+        section {
+            padding: 40px;
+            text-align: center;
+        }
+        h2 {
+            color: #4CAF50;
+            font-size: 36px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin-top: 20px;
+        }
+        .cta-btn {
+            background-color: #008CBA;
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            font-size: 18px;
+            border-radius: 5px;
+            margin-top: 30px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>[Business Name]</h1>
+        <p>Empowering Churches to Spread the Gospel Using AI Technology</p>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="#about">About</a>
+        <a href="#services">Services</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Us</h2>
+        <p>At [Business Name], our mission is to help Protestant churches grow in their ability to share the gospel using innovative AI technology. From automated outreach to sermon translation, we equip churches with the tools they need to reach more people and strengthen their communities.</p>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>We offer a range of AI solutions designed to enhance your church’s mission and operations:</p>
+        <ul>
+            <li><strong>Automated Outreach & Engagement</strong>: Use AI to connect with new visitors and keep your congregation engaged online.</li>
+            <li><strong>Sermon Translation</strong>: Translate your sermons into multiple languages to expand your reach globally.</li>
+            <li><strong>Prayer Assistant</strong>: Let AI handle prayer requests and provide 24/7 spiritual support.</li>
+            <li><strong>Custom Solutions</strong>: Tailored AI tools for your church’s unique needs and goals.</li>
+        </ul>
+    </section>
+
+    <!-- Call to Action Section -->
+    <section id="contact">
+        <a href="contact.html" class="cta-btn">Get in Touch for a Free Consultation</a>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 [Business Name]. All rights reserved.</p>
+    </footer>
+</body>
+</html>
